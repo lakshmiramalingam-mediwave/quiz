@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #c0ded9;
+}
+#choose-category-form {
+  padding: 30px;
+  margin: 250px auto;
+  width: 400px;
+  background: linear-gradient(135deg, #80ced6, #d5f4e6);
+  box-shadow: 0 0 5px rgb(0, 0, 0, 0.3);
+}
+.center {
+  text-align: center;
+}
+#app {
+  background: linear-gradient(135deg, #80ced6, #d5f4e6);
+  box-shadow: 0 0 5px rgb(0, 0, 0, 0.3);
+}
+p {
+  margin-top: 10px;
+}
+label {
+  margin-top: 10px;
+  display: flex;
+}
+button {
+  margin-left: 10px;
+  margin-top: 10px;
+}
